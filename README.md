@@ -27,11 +27,10 @@ This project demonstrates:
 
 ---
 
-## 🏗 System Architectur
+## 🏗 System Architecture
 
-```html
 <div align="center">
-  <img src="architecture-diagram.png" alt="AI Log Analyzer Architecture" width="900"/>
+  <img src="architecture-diagram2.png" alt="Smart IoT Architecture" width="900"/>
 </div>
 
 
